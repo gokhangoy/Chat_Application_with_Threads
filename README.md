@@ -18,5 +18,3 @@ The requirements are as follows:
 
  ![alt text](https://github.com/gokhangoy/Chat_Application_with_Threads/blob/master/output/Output.PNG)
  
- ## Video of Execution
-  ![alt text](https://github.com/gokhangoy/Chat_Application_with_Threads/blob/master/output/Output.PNG)
