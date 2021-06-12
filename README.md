@@ -15,5 +15,5 @@ The requirements are as follows:
 7. additional challenge (nice to have) opposite to 5: have every player in a separate JAVA process.
 
 ## Output of the Execution of the program between two players
-
+ ![alt text](https://github.com/gokhangoy/Chat_Application_with_Threads/blob/master/output/Output.jpg)
  
