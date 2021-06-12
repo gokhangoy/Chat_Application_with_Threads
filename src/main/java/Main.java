@@ -23,7 +23,7 @@ public class Main {
 
 
         Player initiator = new Player("Gökhan", "Göy");
-        Player receiver = new Player("Andrei", "Szabo");
+        Player receiver = new Player("Nihat", "Baz");
 
 
         new Sender(player1ToPlayer2, player2ToPlayer1, initiator, playerManager, "Hello");
