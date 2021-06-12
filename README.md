@@ -1,6 +1,7 @@
-# Chat_Application_with_Threads
+# Chat Application with Threads
 This application is a chatting application.  This app implemented using JAVA threads. The requirements for this app as follows :
 
+## Requirements
 Given a Player class - an instance of which can communicate with other Players.
 
 The requirements are as follows:
@@ -12,3 +13,7 @@ The requirements are as follows:
 5. both players should run in the same java process (strong requirement)
 6. document for every class the responsibilities it has.
 7. additional challenge (nice to have) opposite to 5: have every player in a separate JAVA process.
+
+## Output of the Execution of the program between two players
+
+ 
