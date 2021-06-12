@@ -16,5 +16,4 @@ The requirements are as follows:
 
 ## Output of the Execution of the program between two players
 
- ![alt text](https://github.com/gokhangoy/Chat_Application_with_Threads/blob/master/output/Output.PNG)
  
